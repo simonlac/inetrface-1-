@@ -1,0 +1,15 @@
+C:\Users\18196\source\repos\Exemple_Interface\Exemple_Interface\obj\Debug\Exemple_Interface.csproj.AssemblyReference.cache
+C:\Users\18196\source\repos\Exemple_Interface\Exemple_Interface\obj\Debug\Exemple_Interface.csproj.CoreCompileInputs.cache
+C:\Users\18196\source\repos\Exemple_Interface\Exemple_Interface\bin\Debug\Exemple_Interface.exe.config
+C:\Users\18196\source\repos\Exemple_Interface\Exemple_Interface\bin\Debug\Exemple_Interface.exe
+C:\Users\18196\source\repos\Exemple_Interface\Exemple_Interface\bin\Debug\Exemple_Interface.pdb
+C:\Users\18196\source\repos\Exemple_Interface\Exemple_Interface\obj\Debug\Exemple_Interface.exe
+C:\Users\18196\source\repos\Exemple_Interface\Exemple_Interface\obj\Debug\Exemple_Interface.pdb
+H:\windows programming\Exemple_Interface (1)\Exemple_Interface\Exemple_Interface\bin\Debug\Exemple_Interface.exe.config
+H:\windows programming\Exemple_Interface (1)\Exemple_Interface\Exemple_Interface\bin\Debug\Exemple_Interface.exe
+H:\windows programming\Exemple_Interface (1)\Exemple_Interface\Exemple_Interface\bin\Debug\Exemple_Interface.pdb
+H:\windows programming\Exemple_Interface (1)\Exemple_Interface\Exemple_Interface\obj\Debug\Exemple_Interface.csproj.AssemblyReference.cache
+H:\windows programming\Exemple_Interface (1)\Exemple_Interface\Exemple_Interface\obj\Debug\Exemple_Interface.csproj.SuggestedBindingRedirects.cache
+H:\windows programming\Exemple_Interface (1)\Exemple_Interface\Exemple_Interface\obj\Debug\Exemple_Interface.csproj.CoreCompileInputs.cache
+H:\windows programming\Exemple_Interface (1)\Exemple_Interface\Exemple_Interface\obj\Debug\Exemple_Interface.exe
+H:\windows programming\Exemple_Interface (1)\Exemple_Interface\Exemple_Interface\obj\Debug\Exemple_Interface.pdb
